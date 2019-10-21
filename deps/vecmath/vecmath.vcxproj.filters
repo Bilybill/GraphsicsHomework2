@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\src\Matrix2f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\src\Matrix3f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\src\Matrix4f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\src\Quat4f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\src\Vector2f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\src\Vector3f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\src\Vector4f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\include\Matrix2f.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\include\Matrix3f.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\include\Matrix4f.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\include\Quat4f.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\include\vecmath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\include\Vector2f.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\include\Vector3f.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\include\Vector4f.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Grade4\图形学\HW\HW1\code\deps\vecmath\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2995D2A0-F1F6-3290-92F9-885C0E9F2942}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{022C4D88-8FB6-3AF2-87D1-B500033EBED0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

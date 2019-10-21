@@ -1,0 +1,10 @@
+﻿  Building Custom Rule E:/Grade4/图形学/HW/HW1/code/deps/vecmath/CMakeLists.txt
+  Matrix2f.cpp
+  Matrix3f.cpp
+  Matrix4f.cpp
+  Quat4f.cpp
+  Vector2f.cpp
+  Vector3f.cpp
+  Vector4f.cpp
+  正在生成代码...
+  vecmath.vcxproj -> E:\Grade4\图形学\HW\HW1\code\deps\vecmath\Debug\vecmath.lib

@@ -1,0 +1,6 @@
+/home/wang/Grade4/Graphics/HW1/code/build/CMakeFiles/rebuild_cache.dir
+/home/wang/Grade4/Graphics/HW1/code/build/CMakeFiles/PA1.dir
+/home/wang/Grade4/Graphics/HW1/code/build/CMakeFiles/edit_cache.dir
+/home/wang/Grade4/Graphics/HW1/code/build/deps/vecmath/CMakeFiles/rebuild_cache.dir
+/home/wang/Grade4/Graphics/HW1/code/build/deps/vecmath/CMakeFiles/vecmath.dir
+/home/wang/Grade4/Graphics/HW1/code/build/deps/vecmath/CMakeFiles/edit_cache.dir
